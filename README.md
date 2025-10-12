@@ -39,7 +39,7 @@ I aim to gain **hands-on experience through internships** and contribute to mean
 ---
 
 ## 🎓 Education  
-**Suleyman Demirel University (SDU), Kazakhstan**  
+**SDU University, Kazakhstan**  
 _Bachelor’s Degree in Computer Science_  
 **Expected Graduation:** 2026  
 
@@ -49,13 +49,6 @@ _Bachelor’s Degree in Computer Science_
 📄 [Download My Resume (PDF)](./resume.pdf)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/yernur-zinelov)  
 📧 **Email:** zinelov.ernur@gmail.com  
-
----
-
-## 🌱 Current Goals  
-- Master **clean muscle-ups** through consistent training and grip strength  
-- Build strong **software engineering fundamentals**  
-- Learn **Spring, PostgreSQL, and RESTful APIs**
 
 ---
 
