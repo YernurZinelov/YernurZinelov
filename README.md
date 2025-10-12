@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 About Me  
-I’m a 4th-year Computer Science student at **Suleyman Demirel University (SDU)** in the Faculty of Engineering and Natural Sciences.  
+I’m a 4th-year Computer Science student at **SDU University** in the Faculty of Engineering and Natural Sciences.  
 My main focus is **Java backend development**, and I’m actively expanding into frontend technologies to become a **versatile full-stack developer**.  
 I aim to gain **hands-on experience through internships** and contribute to meaningful IT projects. Beyond coding, I enjoy **playing chess** and **solving the Rubik’s Cube**, which help sharpen my logic and problem-solving skills.  
 
