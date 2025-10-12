@@ -47,7 +47,7 @@ _Bachelor’s Degree in Computer Science_
 
 ## 📄 Resume & Links  
 📄 [Download My Resume (PDF)](./resume.pdf)  
-🔗 [LinkedIn Profile]([https://www.linkedin.com/in/yernur-zinelov](https://www.linkedin.com/in/yernur-zinelov-a74048386?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/yernur-zinelov)  
 📧 **Email:** zinelov.ernur@gmail.com  
 
 ---
