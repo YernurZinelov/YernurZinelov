@@ -20,7 +20,7 @@ Beyond coding, I enjoy **playing chess** and **solving the Rubik's Cube**, which
 **Description:** Designed a layered architecture (model/service separation) with an abstract `Entity` → `Mob` hierarchy, custom unchecked exceptions for game-specific error handling, and an `EffectApplier` interface for special mob abilities. Implemented a turn-based combat system, entity management (add/remove/search/sort/filter), and a multi-stage "adventure" game loop across different in-game locations.  
 **Tools/Technologies:** Java 17, OOP, Collections (List, Optional, Comparator), Custom Exceptions  
 **Summary:** A fully working simulation demonstrating inheritance, polymorphism, interface-based design, and clean separation of concerns without relying on any framework.  
-🔗 [Repository](ссылка на твой репозиторий)
+🔗 [Repository](https://github.com/YernurZinelov/minecraft-console-simulator)
 
 ---
 
