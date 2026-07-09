@@ -1,56 +1,44 @@
 # 👋 Hi, I'm Yernur Zinelov  
-
-🎓 **Computer Science Student at SDU University, Kazakhstan**  
-💡 Passionate about software engineering, problem-solving, and continuous learning.  
-💻 Currently exploring **Java, Data Structures & Algorithms, SQL**, and learning **Spring** and **Git/GitHub**.
+🎓 **Computer Science Graduate, SDU University, Kazakhstan**  
+💡 Aspiring Java Backend Developer, passionate about building reliable, well-structured applications.  
+💻 Currently focused on **Java, Spring Boot, SQL/PostgreSQL**, and backend system design.
 
 ---
 
 ## 🧠 About Me  
-I’m a 4th-year Computer Science student at **SDU University** in the Faculty of Engineering and Natural Sciences.  
-My main focus is **Java backend development**, and I’m actively expanding into frontend technologies to become a **versatile full-stack developer**.  
-I aim to gain **hands-on experience through internships** and contribute to meaningful IT projects. Beyond coding, I enjoy **playing chess** and **solving the Rubik’s Cube**, which help sharpen my logic and problem-solving skills.  
+I'm a Computer Science graduate from **SDU University**, Faculty of Engineering and Natural Sciences.  
+My main focus is **Java backend development** — building REST APIs, working with relational databases, and applying solid OOP principles.  
+I'm currently looking for **Java Backend Intern/Junior opportunities** to grow through hands-on experience and contribute to real-world projects.  
+Beyond coding, I enjoy **playing chess** and **solving the Rubik's Cube**, which help sharpen my logic and problem-solving skills.
 
 ---
 
-## 🚀 Projects  
+## 🚀 Projects
 
-### 🧩 Airline Booking System (Django)
-**Problem:** Manual flight management and booking systems lack efficiency and secure user control.  
-**Approach:** Built a web-based airline system with user authentication, flight management, and passenger booking using unique UUID codes. Designed relational models for Airports, Flights, Passengers, and Bookings, ensuring data integrity and clean routing.  
-**Tools/Technologies:** Python, Django, HTML, CSS  
-**Outcome:** Delivered a scalable and secure booking platform allowing users to view and manage bookings safely within authenticated sessions.  
-
----
-
-### 💻 Web Development Project (HTML, CSS)
-**Problem:** Needed a hands-on demonstration of core frontend development skills.  
-**Approach:** Created and deployed a website showcasing UI design and interactivity. Added styled buttons, structured navigation with anchors and links, and organized data with tables for better readability.  
-**Tools/Technologies:** HTML, CSS, JavaScript  
-**Outcome:** Successfully demonstrated understanding of essential frontend concepts and responsive design principles through a functional and well-structured website.  
+### ⚔️ Minecraft Console Simulator (Java)
+**Objective:** Practice core Java and OOP principles by building a console-based combat simulation.  
+**Description:** Designed a layered architecture (model/service separation) with an abstract `Entity` → `Mob` hierarchy, custom unchecked exceptions for game-specific error handling, and an `EffectApplier` interface for special mob abilities. Implemented a turn-based combat system, entity management (add/remove/search/sort/filter), and a multi-stage "adventure" game loop across different in-game locations.  
+**Tools/Technologies:** Java 17, OOP, Collections (List, Optional, Comparator), Custom Exceptions  
+**Summary:** A fully working simulation demonstrating inheritance, polymorphism, interface-based design, and clean separation of concerns without relying on any framework.  
+🔗 [Repository](ссылка на твой репозиторий)
 
 ---
 
 ## 🧰 Skills  
-**Languages:** Java, SQL, HTML/CSS, JavaScript (basics)  
-**Tools:** IntelliJ IDEA, GitHub, VS Code  
-**Focus Areas:** Data Structures, Algorithms, Object-Oriented Programming  
+**Languages:** Java, SQL  
+**Frameworks/Tools:** Spring Boot, PostgreSQL, Git/GitHub, IntelliJ IDEA, Postman  
+**Focus Areas:** Object-Oriented Programming, Data Structures & Algorithms, REST API design, Relational Databases
 
 ---
 
 ## 🎓 Education  
 **SDU University, Kazakhstan**  
-_Bachelor’s Degree in Computer Science_  
-**Expected Graduation:** 2026  
+_Bachelor's Degree in Computer Science_  
+**Graduated:** 2026
 
 ---
 
 ## 📄 Resume & Links  
 📄 [Download My Resume (PDF)](./resume.pdf)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/yernur-zinelov-a74048386/)  
-📧 **Email:** zinelov.ernur@gmail.com  
-
----
-
-⭐️ _This GitHub profile serves as my personal portfolio for the “Personal Development in Computer Science” course._
-
+📧 **Email:** zinelov.ernur@gmail.com
