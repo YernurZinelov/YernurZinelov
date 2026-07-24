@@ -17,9 +17,9 @@ Beyond coding, I enjoy **playing chess** and **solving the Rubik's Cube**, which
 
 ### ⚔️ Minecraft Console Simulator (Java)
 **Objective:** Practice core Java, OOP principles, and concurrent programming by building a console-based combat simulation.  
-**Description:** Designed a layered architecture (model/service separation) with an abstract `Entity` → `Mob` hierarchy, a generic `EntityManager<T extends Entity>` for type-safe entity management, custom unchecked exceptions for game-specific error handling, and an `EffectApplier` interface for special mob abilities. Implemented a multithreaded combat engine where each duel runs as two synchronized threads with race-condition-safe HP management, plus a multi-stage "adventure" game loop across different in-game locations.  
-**Tools/Technologies:** Java 17, OOP, Generics, Multithreading (`java.util.concurrent`), Stream API, Collections (List, Optional, Comparator), Custom Exceptions  
-**Summary:** A fully working simulation demonstrating inheritance, polymorphism, interface-based design, generics, and safe concurrent programming without relying on any framework.  
+**Description:** Designed a layered architecture (model/service separation) with an abstract `Entity` → `Mob` hierarchy, a generic `EntityManager<T extends Entity>` for type-safe entity management, custom unchecked exceptions for game-specific error handling, and an `EffectApplier` interface for special mob abilities. Implemented a multithreaded combat engine where each duel runs as two synchronized threads with race-condition-safe HP management, plus a multi-stage "adventure" game loop across different in-game locations. Covered deterministic logic (validation, damage/armor calculations, entity management) with JUnit 5 unit tests.  
+**Tools/Technologies:** Java 17, OOP, Generics, Multithreading (`java.util.concurrent`), Stream API, Collections (List, Optional, Comparator), Custom Exceptions, JUnit 5  
+**Summary:** A fully working simulation demonstrating inheritance, polymorphism, interface-based design, generics, safe concurrent programming, and unit testing — without relying on any framework.  
 🔗 [Repository](https://github.com/YernurZinelov/minecraft-console-simulator)
 
 ---
