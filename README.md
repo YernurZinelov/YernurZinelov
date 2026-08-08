@@ -24,6 +24,15 @@ Beyond coding, I enjoy **playing chess** and **solving the Rubik's Cube**, which
 
 ---
 
+### 💸 Expense Splitter REST API (Spring Boot)
+**Objective:** Practice Spring Boot, JPA relationships, and layered backend architecture by building a Splitwise-inspired group expense tracker.  
+**Description:** Modeled relational entities (`User`, `Group`, `Expense`, `ExpenseShare`) with `@ManyToMany` and `@ManyToOne` JPA mappings, and implemented business logic that automatically generates and persists proportional expense shares for every group member, wrapped in a `@Transactional` boundary for atomicity. Enforced strict layer separation with a Request/Response DTO architecture across all endpoints, and built centralized error handling via custom unchecked exceptions and a `@RestControllerAdvice` handler. Covered service-layer business logic (including edge cases like empty groups and missing users) with Mockito-based unit tests.  
+**Tools/Technologies:** Java 17, Spring Boot, Spring Data JPA/Hibernate, PostgreSQL, DTO Pattern, JUnit 5, Mockito, AssertJ  
+**Summary:** A REST API demonstrating relational data modeling, transactional business logic, DTO-based API design, and service-layer unit testing.  
+🔗 [Repository](https://github.com/YernurZinelov/expense-splitter-api)
+
+---
+
 ## 🧰 Skills  
 **Languages:** Java, SQL  
 **Frameworks/Tools:** Spring Boot, PostgreSQL, Git/GitHub, IntelliJ IDEA, Postman  
